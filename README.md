@@ -19,7 +19,7 @@ This is our Portfolio Project, concluding our Foundations Year at Holberton Scho
 * Spotify Web API
 * Flutter
 
-##API and methods
+## API and methods
 
 * /api/session/<id>
 POST: Create a new user with a unique id.
