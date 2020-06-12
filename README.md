@@ -10,46 +10,46 @@ This is our Portfolio Project, concluding our Foundations Year at Holberton Scho
 ## Data Modelling 
 
 
-##Technologies  
+## Technologies  
 
-*MySQL
-*Javascript
-*Python
-*Data API
-*Spotify Web API
-*Flutter
+* MySQL
+* Javascript
+* Python
+* Data API
+* Spotify Web API
+* Flutter
 
 ##API and methods
- 
-*/api/session/<id>
+
+* /api/session/<id>
 POST: Create a new user with a unique id.
 
-*/api/user
+* /api/user
 GET: Returns the user's information based on session id.
 
-*/api/Places
+* /api/Places
 GET: Returns the places where dj are with the same app.
 
-*/api/Places/<id>
+* /api/Places/<id>
 GET: Returns the address of the place.
 
-*/api/Places/<id>/pinfo
+* /api/Places/<id>/pinfo
 GET: Return the name, genre, address and phone number based on Place id.
 
-*/api/DJ
+* /api/DJ
 GET: Returns the data of djs.
 
-*/api/DJ/<id>
+* /api/DJ/<id>
 GET: Return the information from a specific dj.
 
-*/api/DJ/<id>/DJinfo
+* /api/DJ/<id>/DJinfo
 Get: Return the name based on DJ id.
- 
-*/api/MusicWaitingList
+
+* /api/MusicWaitingList
 POST: Create your own music waiting list.
 GET: Returns the Music waiting list.
 
-##Mockups
+## Mockups
 
 
 ## License
@@ -60,4 +60,3 @@ Public Domain. No copy write protection.
 * Michelle Molina - [Github](https://github.com/michelalejo) 
 * Francisco Londoño - [Github](https://github.com/francisco0522) 
 * Juan Davalos - [Github](https://github.com/JuanDavidDava2) 
-
