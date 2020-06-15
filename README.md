@@ -9,6 +9,7 @@ This is our Portfolio Project, concluding our Foundations Year at Holberton Scho
 
 ## Data Modelling 
 
+![](https://github.com/JuanDavidDava2/Music_api/blob/master/images/data.PNG)
 
 ## Technologies  
 
