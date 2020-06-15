@@ -52,6 +52,9 @@ GET: Returns the Music waiting list.
 
 ## Mockups
 
+![](https://github.com/JuanDavidDava2/Music_api/blob/master/images/Mockups.PNG)
+![](https://github.com/JuanDavidDava2/Music_api/blob/master/images/Mockups2.PNG)
+
 
 ## License
 
